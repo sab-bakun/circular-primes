@@ -1,0 +1,6 @@
+F:\My files\Документи\Visual Studio 2012\Projects\CircularPrimes\CircularPrimes\bin\Debug\CircularPrimes.exe.config
+F:\My files\Документи\Visual Studio 2012\Projects\CircularPrimes\CircularPrimes\bin\Debug\CircularPrimes.exe
+F:\My files\Документи\Visual Studio 2012\Projects\CircularPrimes\CircularPrimes\bin\Debug\CircularPrimes.pdb
+F:\My files\Документи\Visual Studio 2012\Projects\CircularPrimes\CircularPrimes\obj\Debug\CircularPrimes.csprojResolveAssemblyReference.cache
+F:\My files\Документи\Visual Studio 2012\Projects\CircularPrimes\CircularPrimes\obj\Debug\CircularPrimes.exe
+F:\My files\Документи\Visual Studio 2012\Projects\CircularPrimes\CircularPrimes\obj\Debug\CircularPrimes.pdb
